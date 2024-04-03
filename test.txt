@@ -1,0 +1,607 @@
+Siaran yang anda telah berinteraksi
+Dapatkan makluman apabila rakan anda (pengikut yang anda ikut kembali) memberi komen pada siaran rakan lain yang anda suka atau komen.
+juga memberi komen pada siaran {s_authorNickname}
+Mulakan kumpulan di sini
+Dihantar kepada %s
+Mesej %s...
+Mesej...
+Hidupkan pemberitahuan mesej langsung
+Dapatkan maklumat apabila %s memberi jawapan?
+Pengikut yang anda ikut kembali
+Tiada sesiapa
+Rakan
+Semua orang
+Terima pemberitahuan daripada:
+Mesej langsung
+Buka
+Hidupkan
+Hidupkan pemberitahuan mesej dalam tetapan sistem anda
+Hidupkan pemberitahuan mesej
+Apabila suapan diperibadikan dihidupkan, akaun disyorkan berdasarkan orang yang mungkin anda kenali, termasuk hubungan orang yang anda ikuti. Anda boleh menukar perkara yang disyorkan kepada anda dalam %1$s.\n\nAkaun anda juga mungkin akan disyorkan kepada orang yang mungkin anda kenali. Tukar kebolehtemuan anda pada bila-bila masa dalam tetapan %2$s anda.
+Privasi
+Urus suapan diperibadikan
+Ketahui lebih lanjut
+Urus suapan diperibadikan
+Penglibatan anda di TikTok bantu membentuk perkara yang anda lihat. Lebih banyak interaksi anda, lebih banyak suapan anda yang diperibadikan. \n\nAnda boleh menghidupkan suapan diperibadikan pada bila-bila masa. Tindakan ini akan mengubah sebahagian pengalaman anda, termasuk menukar Popular kepada Untuk Anda, tetapi tidak akan menjejaskan pemeribadian iklan. Anda boleh mematikan semula suapan diperibadikan pada bila-bila masa untuk membatalkan perubahan ini.
+Selesai
+Suapan diperibadikan
+Ketahui lebih lanjut
+Siar LIVE bersama
+Siar LIVE dengan ahli kumpulan?
+Semua ahli kumpulan akan dijemput untuk turut serta. Video LIVE ini akan disiarkan secara awam dan orang lain mungkin meminta untuk menyertai sebagai tetamu.
+Batal
+Siar LIVE
+LIVE sekarang
+Menjemput anda menyertai LIVE mereka
+Menjemput anda menyertai LIVE mereka
+Anda menjemput orang lain menyertai video LIVE
+{s_nickname} menjemput anda menyertai LIVE mereka
+Leret ke kiri untuk menutup komen
+Leret ke kanan untuk menutup komen
+Mulakan kumpulan di sini
+Tonton video penuh
+oleh %s
+Pelekat video
+Kongsi
+Tambah kepada egemaran
+Orang lain mungkin tidak dapat menambah siaran anda kepada siaran atau Stories mereka, bergantung pada tetapan privasi anda.
+Siapa yang boleh menambah siaran atau Stories anda?
+Tambah ke Story
+%d siaran baharu
+119
+Ubah nama
+Tambah ahli
+Kongsi kumpulan
+Ubah nama
+Simpan
+Nama disimpan
+Tidak boleh disimpan, nama tidak sesuai
+Had bilangan perkataan telah dicapai
+Tambah ahli
+Cari
+Kongsi kumpulan
+Tambah (%1$d/%2$d)
+Rakan yang anda tambah akan menyertai kumpulan ini setelah permintaan mereka diluluskan oleh pentadbir kumpulan.
+Permintaan telah dihantar untuk kelulusan pentadbir
+Ditambah kepada kumpulan
+%1$s mencipta kumpulan sembang ini dan menambah %2$s dan %3$s
+%1$s mencipta kumpulan sembang ini dan menambah %2$s, %3$s dan %4$s
+{num, plural, other {%1$s mencipta kumpulan sembang ini dan menambah %2$s, %3$s, %4$s dan %5$d lagi.}}
+Anda boleh %s untuk lebih dikenali
+tukar nama kumpulan
+%1$s menukar nama kumpulan kepada “%2$s”
+Kongsi dengan
+Pemberitahuan daripada rakan anda akan kelihatan di sini.
+Aktiviti rakan
+{num, plural, other {%d aktiviti baharu}}
+{num, plural, other {%d mesej}}
+Akaun tidak ditemukan
+Memadamkan mesej
+Menghantar...
+Aktif %dm yang lalu
+Aktif %dj yang lalu
+Dihantar sebentar tadi
+Dihantar %dm yang lalu
+Dihantar %dj yang lalu
+Dihantar hari ini
+Dihantar semalam
+Dihantar %dh yang lalu
+Dihantar
+Dilihat sebentar tadi
+Dilihat %dm yang lalu
+Dilihat %dj yang lalu
+Dilihat hari ini
+Dilihat
+Gagal dihantar
+Draf
+{s_username} mengambil [tangkapan skrin media]
+{s_username} mengambil [tangkapan skrin media]
+Anda mengambil [tangkapan skrin media]
+Anda mengambil [tangkapan skrin media]
+{num, plural, other {tangkapan skrin media}}
+Faham
+Pengirim akan dimaklumkan tentang tangkapan skrin mesej media mereka.
+Anda mengambil tangkapan skrin media
+Tonton Stories
+224
+Cuba kesan
+Cipta AI-moji anda sendiri
+Anda boleh menggunakan AI-moji untuk memberi reaksi kepada Stories, mesej atau pelekat dalam sembang. Ikuti langkah seterusnya dan biarkan AI mengendalikan yang selebihnya.
+Bermula
+Letakkan kedudukan muka anda dalam bingkai
+Adakah anda pasti anda ingin keluar? AI-moji anda tidak akan disimpan.
+Batal
+Keluar
+Sila gunakan ekspresi muka neutral
+Pandang tepat pada kamera
+Pusingkan kepala anda ke kanan
+Sila gunakan sudut aras mata
+Pusingkan kepala anda ke kiri
+Sudah selesai!
+Bersedia untuk menjana...
+Giliran anda seterusnya
+AI-moji anda akan mula dijana tidak lama lagi. Kami akan memaklumkan anda apabila siap.
+{num, plural, other {Anggaran masa: %d minit}}
+Kembali ke sembang
+Kembali ke Story
+Batal
+Menjana hasil AI-moji anda
+Kami akan memaklumkan kepada anda apabila siap.
+%d%% selesai
+Kembali ke Story
+Kembali ke sembang
+Batal
+AI-moji yang dipadamkan tidak boleh ditambah pada kegemaran
+Anda menghantar AI-moji
+AI-moji anda akan mula dijanakan tidak lama lagi. Anda masih boleh menggunakan AI-moji sedia ada anda sehingga yang baharu lengkap.
+telah memberikan reaksi kepada mesej anda
+{s_nickname} telah memberikan reaksi kepada mesej anda
+Kembali kepada halaman sebelumnya
+Tutup penciptaan AI-moji
+Anda mesti menunggu selama 24 jam sebelum mencipta AI-moji yang lain
+Ketik untuk mencipta set pelekat AI-moji anda sendiri
+Cipta AI-moji baharu
+Padamkan AI-moji
+Tindakan ini akan menggantikan set AI-moji semasa anda. Adakah anda ingin meneruskan?
+Urus
+Lihat AI-moji anda
+menghantar AI-moji
+menghantar AI-moji
+%s menghantar AI-moji
+Luahkan diri anda dengan AI-moji
+Ambil swafoto untuk mencipta set pelekat anda sendiri
+Cipta milik anda
+%s sekarang atau dalam panel pelekat kemudian.
+Cipta AI-moji anda sendiri
+%1$s mencipta AI-moji mereka sendiri. %2$s
+Cipta milik anda
+AI-moji oleh %s
+Cipta AI-moji anda
+AI-moji anda
+Kongsi
+Luahkan diri anda dengan AI-moji
+Cipta milik anda hanya dengan 1 gambar
+Cipta AI-moji
+Ambil swafoto untuk mencipta set pelekat anda sendiri
+Cipta pelekat video
+Tukar video TikTok menjadi pelekat
+Menjana AI-moji: Kami akan memaklumkan kepada anda setelah AI-moji sedia untuk digunakan.
+Lihat status
+AI-moji
+Cipta milik anda
+AI-moji
+Baharu
+Luahkan diri anda dengan AI-moji
+Cipta milik anda
+Avatar anda didatangkan dengan set AI-moji
+AI-moji dicipta daripada avatar anda dan boleh digunakan sebagai pelekat dalam sembang.
+Lihat
+Padam
+Ketik untuk menghantar AI-moji
+%s untuk mencari AI-moji anda
+Buka panel pelekat
+Gantikan AI-moji
+Padam
+Adakah anda pasti anda ingin menukar gambar input anda? AI-moji semasa anda akan dipadamkan.
+Adakah anda pasti anda mahu memadamkan AI-moji anda? AI-moji yang dihantar akan kekal kelihatan dalam sembang.
+Teruskan
+Batal
+Lihat
+Buka untuk melihat
+AI-moji anda sudah siap 🎉
+Memberikan reaksi kepada Story mereka
+Memberikan reaksi kepada Story anda
+Label anda akan dipaparkan di sini
+Bersembang dengan penapis yang disemak akan kelihatan di sini
+Tiada sembang ditemui
+Gunakan
+Penapis
+Tidak dibaca sahaja
+GIF
+Tonton video penuh
+oleh %s
+Pelekat video
+Tambah
+Cari pelekat...
+Laporkan
+Tambah
+Kongsi
+Tambah pada kegemaran
+Hantar permintaan mesej
+Untuk bersembang dengan lebih ramai orang. tetapkan kebenaran anda kepada "Semua orang".
+Hantar permintaan mesej kepada {s_nickname}
+Anda hanya boleh menghantar hingga 1 mesej pada masa ini, disebabkan oleh tetapan pengguna ini. Mula bersembang selepas pengguna menerima permintaan mesej anda.
+Permintaan mesej dihantar
+Anda boleh mula bersembang selepas pengguna ini menerima permintaan mesej anda.
+Anda boleh menghantar hingga 1 mesej sebelum pengguna ini menerima permintaan mesej anda.
+Permintaan mesej diterima. Anda boleh memulakan sembang.
+Orang lain boleh menghantar hingga 1 mesej kepada anda sehingga anda menerima mesej. Padam untuk mengeluarkan sembang ini. Laporkan akaun ini jika anda menerima mesej yang tidak sewajarnya.
+Orang lain kini boleh menghantar hingga 1 mesej kepada anda sebagai permintaan untuk bersembang. Anda boleh bersembang dengan mereka dengan menerima permintaan mereka.
+Siaran semula baharu
+Rakan anda belum menyiarkan semula apa-apa
+Kembali ke “Untuk Anda”
+Anda telah melihat semua siaran semula daripada rakan
+{d_repostCount} disiar semula
+{s_interactionNickname} disiar semula
+Siaran semula
+Memperkenalkan papan buletin
+Cara baru untuk memastikan pengikut anda yang paling banyak berinteraksi dengan anda dimaklumkan.
+Bukan sekarang
+Cubalah
+Berinteraksi dengan semua pengikut serentak
+Bagaimanakah fungsi papan buletin?
+Anda boleh menerbitkan 3 buletin setiap hari. Video, gambar atau siaran boleh digunakan sebagai buletin.
+Siapa boleh melihat buletin?
+Papan buletin boleh dilihat oleh semua orang.
+Siapa yang boleh menyertai?
+Mana-mana bilangan pengikut anda boleh menyertai papan anda dan mendapat makluman buletin baharu.
+Faham
+Tukar imej
+Nama papan
+Berikan nama papan buletin anda
+Perihalan
+Berikan penerangan tentang buletin anda
+Tetapan
+Tunjukkan pada profil
+Anda hanya boleh mempunyai 1 papan yang terbuka pada satu-satu masa
+Cipta
+Cipta papan buletin
+Anda hanya boleh mempunyai 1 papan terbuka pada satu-satu masa
+{num, plural, other {%d ahli}}
+Tunjukkan pada profil
+Pin pada bahagian atas Peti masuk
+Benarkan balasan
+Tutup
+Edit
+Selesai
+Disimpan
+Anda telah mengedit papan buletin anda hari ini. Cuba lagi esok.
+Pangkas
+Batal
+Simpan
+Tutup papan buletin?
+Papan anda akan dibuka semula dalam masa 30 hari, selepas itu, papan tersebut akan dipadamkan secara automatik.
+Batal
+Tutup
+Papan buletin ditutup
+Anda boleh membuka semula papan sebelum %s.
+Buka semula
+Papan ini tidak boleh dibuka semula kerana ia ditutup lebih 30 hari yang lalu.
+Memandangkan anda telah mencipta papan buletin baharu, papan ini tidak boleh dibuka semula.
+Padam
+Padamkan papan buletin?
+Tindakan ini akan memadamkan buletin dan mesej secara kekal dan tidak boleh dibuat asal.
+Batal
+Padam
+Anda mencipta papan buletin ini
+Anda mencipta papan buletin ini
+Tiada buletin lagi. Tulis buletin pertama anda!
+Tulis buletin
+Kamera
+Muat naik
+Siaran
+Tulis buletin hingga 1000 aksara...
+Terbitkan
+%d/1000
+Draf disimpan
+Had aksara dicapai
+Anda boleh menerbitkan 2 lagi buletin hari ini
+Anda telah menerbitkan 3 buletin hari ini. Tulis lebih banyak lagi esok.
+Anda akan meninggalkan TikTok dan melayari lama web luaran.
+Tidak dihantar
+Siaran
+Siaran anda
+Siaran kegemaran
+Terbitkan
+Terbitkan
+Terbitkan
+Pin
+Padam
+Padamkan papan buletin?
+Tindakan ini akan memadamkan buletin dan mesej secara kekal dan tidak boleh dibuat asal.
+Batal
+Padam
+Salin
+Padam
+Disalin
+Padamkan untuk semua orang
+Batal
+Anda memadamkan buletin
+Buletin boleh dipadamkan dalam masa 3 minit selepas penerbitan. Mesej mungkin telah dilihat atau dimajukan dan juga mungkin dilaporkan.
+Buletin ini telah dikeluarkan kerana buletin ini melanggar Garis Panduan Komuniti kami.
+Sertai papan buletin %s
+%s telah menjemput anda menyertai papan buletin mereka. Kekal termaklum dengan buletin dan acara, stok semula atau berita buletin terkini yang akan datang.
+Lihat lebih
+Padam mesej papan?
+Sejarah sembang anda dalam mesej papan ini akan dipadamkan dan tidak boleh dipulihkan.
+Batal
+Padam
+Gambar tidak tersedia
+Siaran tidak tersedia
+Buletin ini telah dikeluarkan kerana buletin tersebut melanggar Garis Panduan Komuniti kami.
+Mesej papan
+Mesej yang anda terima daripada ahli papan buletin anda akan kelihatan di sini.
+Tiada sambungan Internet. Sambung ke Internet dan cuba lagi.
+Anda boleh membaca buletin eksklusif %sdan mendapatkan makluman apabila ada buletin baharu.
+{num, plural, other {%s buletin baharu}}
+Mesej papan
+Hantar mesej...
+Padam
+Salin
+Padam
+Disalin
+Papan buletin ditutup
+Anda tidak boleh membalas mesej papan kerana anda telah menutup papan ini lebih 30 hari yang lalu.
+Buka semula papan ini sebelum %s untuk membalas mesej papan.
+Anda tidak boleh meninggalkan balasan
+%s telah meninggalkan papan buletin anda, oleh itu, anda tidak boleh meninggalkan balasan pada mesej papan.
+Anda tidak boleh membalas %s kerana mereka telah menghantar mesej kepada anda lebih 7 hari yang lalu.
+Mesej yang anda hantar ke papan ini hanya boleh dilihat oleh anda dan %s
+Pengikut %1$s boleh menyertai papan buletin ini. Dengan menyertai ini, anda akan mengikuti %2$s dan akan dimaklumkan dalam Peti masuk anda apabila buletin baharu diterbitkan.
+Bukan sekarang
+Sertai
+Papan buletin ditutup
+%s tidak akan menerbitkan buletin pada papan ini lagi.
+Hantar mesej...
+Tidak dihantar
+Anda hanya boleh menghantar hingga 3 mesej setiap 48 jam sehingga anda menerima jawapan
+Salin
+Padam
+Laporkan
+Disalin
+Bisukan papan buletin
+Pin pada bahagian atas Peti masuk
+Keluar
+Sertai
+Tinggalkan papan buletin?
+Anda tidak akan menerima buletin daripada %s lagi.
+Keluar
+Sebaliknya bisukan
+Batal
+Bisukan
+Pin
+Padam
+Sahkan
+Sesuaikan reaksi pelekat anda
+Pilih Emoji
+Lihat keputusan
+Tiada reaksi lagi
+Pelekat kesukaan anda akan ditunjukkan di sini
+Reaksi pelekat
+Lihat lebih banyak reaksi
+memberikan reaksi kepada Story anda
+memberi reaksi {{emoji}} kepada siaran anda
+memberi reaksi {{emoji}} kepada Story anda
+{{username}}, {{username2}} dan {{number}} lain memberi reaksi {{emoji}} kepada Story anda
+{{username}}, {{username2}} dan {{number}} lain memberi reaksi {{emoji}} pada siaran anda
+Seret ke bawah untuk mencipta Story
+Lepaskan untuk mencipta Story
+Kongsi siaran gambar anda anda ke TikTok Photos
+TikTok Photos, apl baharu kami khusus untuk siaran gambar anda, akan dikeluarkan dan kami sedang menyiapkan akaun anda untuk anda!Siaran gambar anda akan dikongsi kepada TikTok Photos setelah menutup pop timbul ini. Togol matikan dahulu jika anda tidak mahu gambar dikongsikan ke TikTok Photos. {s_learnMorePlaceholder}
+TikTok Photos, apl baharu kami, khusus untuk siaran gambar anda, akan dikeluarkan dan kami sedang menyiapkan akaun anda untuk anda!
+ 
+ Siaran gambar anda tidak akan dikongsi kepada TikTok Photos apabila anda menutup pop timbul ini. Togol matikan dahulu jika anda tidak mahu gambar dikongsikan ke TikTok Photos. {s_learnMorePlaceholder}
+Ketahui lebih lanjut
+Kongsi ke TikTok Photos
+OK
+Untuk menerima mesej, tetapkan kebenaran kepada "Rakan"
+Anda akan menerima mesej daripada rakan apabila anda menukar kebenaran anda. {s_learnMore}
+Tetapkan kepada "Rakan"
+Ketahui lebih lanjut
+Sembang dengan lebih ramai orang
+Rakan
+Kebenaran mesej ditetapkan kepada "Rakan"
+Mesej daripada rakan dan rakan disyorkan dialihkan kepada peti masuk anda.
+Mesej daripada orang lain tersedia dalam permintaan mesej.
+Faham
+Mesej tidak boleh dihantar disebabkan oleh tetapan penerima. Kami akan menghantar semula mesej setelah mereka mengemas kini kebenaran mereka.
+Untuk menerima mesej, tetapkan kebenaran kepada "Rakan disyorkan”
+Anda akan menerima mesej daripada rakan disyorkan apabila anda menukar kebenaran anda. {s_learnMore}
+Tetapkan kepada "Rakan disyorkan”
+Kebenaran mesej ditetapkan kepada "Rakan disyorkan"
+Rakan yang dicadangkan
+Untuk menerima mesej, tetapkan kebenaran kepada "Semua orang"
+Anda akan menerima mesej daripada semua orang apabila anda menukar kebenaran anda. {s_learnMore}
+Tetapkan kepada “Semua orang”
+Lain-lain
+Kebenaran mesej ditetapkan kepada "Semua orang"
+mula mengikuti anda pada {s_otherAccountNickname}
+menghantar permintaan ikut kepada anda pada {s_otherAccountNickname}
+telah meluluskan permintaan ikut anda pada {s_otherAccountNickname}
+suka siaran anda pada {s_otherAccountNickname}
+memberi komen pada siaran anda pada {s_otherAccountNickname}
+membalas komen anda pada {s_otherAccountNickname}
+membalas komen anda dengan video pada {s_otherAccountNickname}
+membalas komen anda pada {s_otherAccountNickname}
+menyebut anda dalam komen pada {s_otherAccountNickname}
+menyebut anda dalam siaran pada {s_otherAccountNickname}
+telah mencipta Duet bersama anda pada {s_otherAccountNickname}
+menyiarkan semula siaran yang sama pada {s_otherAccountNickname}
+suka siaran semula anda pada {s_otherAccountNickname}
+lihat profil anda pada {s_otherAccountNickname}
+menghantar mesej kepada anda dalam sembang kumpulan pada {s_otherAccountNickname}
+menghantar mesej kepada anda pada {s_otherAccountNickname}
+mula mengikuti anda pada {s_otherAccountNickname}
+menghantar permintaan ikut kepada anda pada {s_otherAccountNickname}
+telah meluluskan permintaan ikut anda pada {s_otherAccountNickname}
+suka siaran anda pada {s_otherAccountNickname}
+memberi komen pada siaran anda pada {s_otherAccountNickname}
+membalas komen anda pada {s_otherAccountNickname}
+membalas komen anda dengan video pada {s_otherAccountNickname}
+membalas komen anda pada {s_otherAccountNickname}
+menyebut anda dalam komen pada {s_otherAccountNickname}
+menyebut anda dalam siaran pada {s_otherAccountNickname}
+menyebut anda dalam siaran pada {s_otherAccountNickname}
+telah mencipta Duet bersama anda pada {s_otherAccountNickname}
+menyiarkan semula siaran yang sama pada {s_otherAccountNickname}
+suka siaran semula anda pada {s_otherAccountNickname}
+suka siaran semula anda pada {s_otherAccountNickname}
+lihat profil anda pada {s_otherAccountNickname}
+menghantar mesej kepada anda dalam sembang kumpulan pada {s_otherAccountNickname}
+menghantar mesej kepada anda pada {s_otherAccountNickname}
+
+mula mengikuti anda pada {s_otherAccountNickname}
+menghantar permintaan ikut kepada anda pada {s_otherAccountNickname}
+telah meluluskan permintaan ikut anda pada {s_otherAccountNickname}
+suka siaran anda pada {s_otherAccountNickname}
+memberi komen pada siaran anda pada {s_otherAccountNickname}
+membalas komen anda pada {s_otherAccountNickname}
+membalas komen anda dengan video pada {s_otherAccountNickname}
+membalas komen anda pada {s_otherAccountNickname}
+menyebut anda dalam komen pada {s_otherAccountNickname}
+menyebut anda dalam siaran pada {s_otherAccountNickname}
+menyebut anda dalam siaran pada {s_otherAccountNickname}
+telah mencipta Duet bersama anda pada {s_otherAccountNickname}
+menyiarkan semula siaran yang sama pada {s_otherAccountNickname}
+suka siaran semula anda pada {s_otherAccountNickname}
+suka siaran semula anda pada {s_otherAccountNickname}
+lihat profil anda pada {s_otherAccountNickname}
+menghantar mesej kepada anda dalam sembang kumpulan pada {s_otherAccountNickname}
+menghantar mesej kepada anda pada {s_otherAccountNickname}
+
+
+[{s_otherAccountNickname}] {s_interactionNickname}
+
+
+
+menyukai siaran anda
+telah memberikan komen pada siaran anda
+membalas komen anda
+
+membalas komen anda
+menyebut anda dalam komen
+
+
+
+
+menyukai siaran semula anda
+menyukai siaran semula anda
+
+menghantar mesej kepada anda dalam sembang kumpulan
+telah menghantar mesej kepada anda
+Anda telah membuka kunci Mesej berturut-turut
+Anda telah membuka kunci {s_Streak}
+Mesej Berturutan
+{num, plural, other {Anda mempunyai Mesej Berturutan selama {s_fireIcon}{num} hari!}}
+Buka kunci Mesej Berturutan dengan menghantar mesej kepada satu sama lain selama tiga hari berturut-turut. Mesej Berturutan akan tamat jika anda berdua tidak menghantar mesej kepada satu sama lain dalam masa 24 jam yang lalu.
+Faham
+Jangan biarkan Mesej Berturutan tamat
+Jangan biarkan Mesej Berturutan tamat. Hantar mesej kepada satu sama lain untuk mengekalkan Mesej Berturutan.
+Jangan biarkan {s_fireIcon} Mesej Berturutan tamat. Hantar mesej kepada satu sama lain untuk mengekalkan Mesej Berturutan.
+Mencetus {s_nickname}
+Anda telah mencetus {s_nickname}
+mencetus anda
+Bunga api dihantar
+Cetus kembali
+mencetus anda kembali
+{num, plural, other {Anda mempunyai Mesej Berturutan selama {num} hari}}
+{num, plural, other {Anda mempunyai {s_fireIcon} Mesej Berturutan selama {num} hari}}
+{num, plural, other {Anda mengekalkan Mesej Berturutan selama {num} hari.}}
+Mesej Berturutan tamat
+Buka kunci Mesej Berturutan baharu dengan menghantar mesej kepada satu sama lain selama tiga hari berturut-turut.
+{s_nickname} hantar bunga api kepada anda
+[bunga api]
+Anda telah mencetus {s_nickname} kembali
+Mesej Berturutan tamat
+Mesej Berturutan
+Apabila dimatikan, anda tidak akan menerima pemberitahuan Mesej Berturutan, tetapi ciri Mesej Berturutan akan kekal aktif.
+Hanya pencipta papan boleh melihat mesej
+Menghantar mesej kepada anda:
+Tidak dihantar
+Dilihat oleh %s
+{num, plural, other {%d ahli}}
+Jemput rakan usaha sama
+Cara baru untuk mencipta dengan orang lain di TikTok
+Pencipta yang menerima jemputan anda akan disenaraikan sebagai rakan usaha sama dalam siaran anda. Ini akan kelihatan pada profil mereka, tetapi hanya anda boleh mengedit siaran tersebut dan mengeluarkan apa-apa pendapatan yang mungkin diterima.
+Seterusnya
+Jemput rakan usaha sama
+Siapakah dalam siaran ini?
+Terbaru
+Rakan
+Mengikuti
+Anda hanya boleh menjemput 5 rakan usaha sama
+Selesai {num}
+Anda hanya boleh menjemput orang lain untuk bekerjasama maksimum 4 kali sebulan
+Anda hanya boleh menjemput rakan usaha sama jika tetapan privasi siaran ini ditetapkan kepada "Semua orang"
+Anda hanya boleh menjemput rakan usaha sama jika akaun anda ditetapkan kepada umum
+Rakan usaha sama
+{num} rakan usaha sama
+Jemputan belum selesai
+Bekerjasama dengan
+dan
+Bekerjasama dengan {s_collaboratorName}
+Bekerjasama dengan {s_collaboratorName1} dan {num} yang lain 
+dan
+orang yang lain
+dan orang yang lain
+{s_collaboratorName1} dan {s_collaboratorName2}
+Rakan usaha sama
+Rakan usaha sama
+Jemputan belum selesai
+Mesej
+Ikut
+Anda dijemput untuk bekerjasama
+Tolak
+Terima
+Terima jemputan?
+Anda akan disenaraikan sebagai rakan usaha sama dalam siaran ini. Ini akan kelihatan pada profil anda, tetapi anda tidak boleh mengedit siaran atau mengeluarkan sebarang pendapatan yang mungkin diterima.
+Terima
+Batal
+Tolak jemputan?
+Anda akan dijemput untuk bekerjasama semula jika anda mengubah fikiran anda.
+Tolak
+Batal
+Jemputan bekerjasama diterima
+{s_collaboratorName} menerima jemputan anda untuk bekerjasama. Mereka akan disenaraikan sebagai rakan usaha sama pada siaran anda dan ini juga akan kelihatan pada profil mereka.
+Lihat lebih
+Anda dijemput untuk bekerjasama
+{s_creatorName} menjemput anda untuk bekerjasama pada siaran mereka. Anda akan disenaraikan sebagai rakan usaha sama dan ini akan kelihatan pada profil anda. Anda tidak boleh mengedit siaran atau mengeluarkan sebarang pendapatan yang mungkin diterima.
+Lihat lebih
+Siaran dipadamkan
+{s_creatorName} memadamkan siaran mereka yang anda bekerjasama. Ia tidak lagi kelihatan pada profil anda.
+Lihat lebih
+Siaran tidak kelihatan pada profil anda
+{s_creatorName} menukar tetapan privasi siaran mereka yang anda bekerjasama. Ia tidak lagi kelihatan pada profil anda.
+Lihat lebih
+Kemas kini apl TikTok anda untuk bekerjasama
+{s_creatorName} telah menjemput anda untuk bekerjasama pada siaran mereka. Setelah anda mengemas kini apl anda kepada versi yang terkini, anda boleh menerima jemputan ini untuk disenaraikan sebagai kolaborator, dan siaran tersebut akan tertera pada profil anda.
+Lihat siaran
+Anda dijemput untuk bekerjasama
+Semakan
+Terima jemputan?
+Anda akan disenaraikan sebagai rakan usaha sama dalam siaran ini. Ini akan kelihatan pada profil anda, tetapi anda tidak boleh mengedit siaran atau mengeluarkan sebarang pendapatan yang mungkin diterima.
+Terima
+Tolak
+Bukan sekarang
+Anda kini rakan usaha sama pada siaran ini
+Anda telah menolak jemputan untuk bekerjasama ini
+Keluar
+Tinggalkan kerjasama?
+Anda tidak lagi disenaraikan sebagai rakan usaha sama pada siaran ini dan label ini akan dikeluarkan daripada profil anda.
+Batal
+Keluar
+Anda bukan lagi rakan usaha sama pada siaran ini
+Jemputan belum selesai
+{num, plural, other {{num} rakan usaha sama}}
+Tidak dapat menjemput atau mengeluarkan rakan usaha sama
+Rakan usaha sama
+{num} rakan usaha sama
+Bisukan
+Pin ke atas
+Pemberitahuan saluran
+Aktiviti
+Kerjasama
+Kempen
+Kemas kini produk
+Peluang
+Peringatan
+Tinjauan
+Anda masih akan menerima pemberitahuan tentang perkara yang memerlukan perhatian anda.
+Pemberitahuan sistem
+Hentikan pemberitahuan tentang “{s_categoryName}”
+Terima pemberitahuan tentang “{s_categoryName}”
+Pengumuman
+Notis
+Tetapan
+Transaksi
+Pemberitahuan sebelumnya
